@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0534/WYG/v1/juan/4
+seq: 4
+front:
+  text: 金臺集題詩崇天門下聽臚傳臺閣聨翩四十年今日縣車歸故里杖藜擕酒落華前玉帶難圍老病身廟堂補報乏涓塵衰年作别情懷惡秉燭題詩贈故人愛君譚辯似縣河更喜交情古意多長使馬周貧作客令人千古媿常何百尺髙臺易水東千金曾此彀英雄君來却在承平日先筞詩壇第一功
+  hash: sha256:171e733fc5bc2fd9b0ce0671c67d1513e976716d542de523a91bbeeb4300548f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0534_WYG_004-1a, image: WYG1215/WYG1215-0306a.png}
+body:
+  text: 予既致政將歸濟南賦詩四章題金臺集後奉别易之良友抑以書予自媿云爾至正戊子三月望日華峰真逸張起巖書
+  hash: sha256:58ceddcc7ed971a7f4c73f6f153b29e14211814934941c65452e6c94d78ee2c6
+metadata:
+  title: 金臺集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:13:26.588870'
+  juan_title: 題詩
+  source:
+    repository: kanripo
+    path: KR4d0534/KR4d0534_004.txt
+hash: sha256:fc3ce1f74ee0032dd48cb5a55e2ef4ff20015863961581c39adeacc3f98399b3

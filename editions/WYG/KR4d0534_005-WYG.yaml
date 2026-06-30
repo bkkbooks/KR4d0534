@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0534/WYG/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金臺集虞集詩力疾坐雲館移床近竹坡卷簾新雨過欹枕晚凉多病覺衰翁減詩聽好客歌因君懷郭隗千古意如何
+  hash: sha256:295f7890b8ca3183160c74ef00fca9e5a0ee31f74a4934fbebe60a81fa915f85
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0534_WYG_005-1a, image: WYG1215/WYG1215-0306c.png}
+metadata:
+  title: 金臺集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:13:26.588870'
+  juan_title: 虞集詩
+  source:
+    repository: kanripo
+    path: KR4d0534/KR4d0534_005.txt
+hash: sha256:fd9b0bc7150e8566839ed66298150dea8fc64b5fa57e89f34ecc24c00c582d70
