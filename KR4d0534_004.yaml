@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4d0534/krp/v1/juan/4
 seq: 4
 front:
-  text: 金臺集題詩崇天門下聽臚傳臺閣聨翩四十年今日縣車歸故里杖藜擕酒落華前玉帶難圍老病身廟堂補報乏涓塵衰年作别情懷惡秉燭題詩贈故人愛君譚辯似縣河更喜交情古意多長使馬周貧作客令人千古媿常何百尺髙臺易水東千金曾此彀英雄君來却在承平日先筞詩壇第一功
-  hash: sha256:171e733fc5bc2fd9b0ce0671c67d1513e976716d542de523a91bbeeb4300548f
+  text: 金臺集題詩崇天門下聽臚傳臺閣聨翩四十年今日縣車歸故里杖藜擕酒落華前玉帶難圍老病身廟堂補報乏涓塵衰年作别情懷惡秉燭題詩贈故人愛君談辨似縣河更喜交情古意多長使馬周貧作客令人千古愧常何百尺髙臺易水東千金曾此彀英雄君來却在承平日先策詩壇第一功
+  hash: sha256:6513c6c28d21d4148fa0f217ef7a3b55396c58a4c7931b1e3056e86855c84f6e
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0534_WYG_004-1a, image: WYG1215/WYG1215-0306a.png}
 body:
-  text: 予既致政將歸濟南賦詩四章題金臺集後奉别易之良友抑以書予自媿云爾至正戊子三月望日華峰真逸張起巖書
-  hash: sha256:58ceddcc7ed971a7f4c73f6f153b29e14211814934941c65452e6c94d78ee2c6
+  text: 豫既致政將歸濟南賦詩四章題金臺集後奉别易之良友抑以書豫自愧云爾至正戊子三月望日華峰真逸張起巖書
+  hash: sha256:e7b5c7261dac222fbba42ea4d91f2a06f1851e80de069b05c4a26aaf9dd3aef3
 metadata:
   title: 金臺集
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0534/KR4d0534_004.txt
-hash: sha256:698d5f0e75b727d46ced3447ef799ece9118befe6d92adfab1f4cf77fc3d8bfd
+hash: sha256:ec55eb54688e245fde785bb824457910882597e443451780c882cf69a4ef1bf0

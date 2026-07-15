@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 金臺集虞集詩力疾坐雲館移床近竹坡卷簾新雨過欹枕晚凉多病覺衰翁減詩聽好客歌因君懷郭隗千古意如何
-  hash: sha256:295f7890b8ca3183160c74ef00fca9e5a0ee31f74a4934fbebe60a81fa915f85
+  text: 金臺集虞集詩力疾坐雲館移床近竹坡卷簾新雨過欹枕晚涼多病覺衰翁減詩聽好客歌因君懷郭隗千古意如何
+  hash: sha256:32bbded4727e7d71220650f3b7e1d2531d675f6afc9ed346441d97edd51d17d1
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0534_WYG_005-1a, image: WYG1215/WYG1215-0306c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0534/KR4d0534_005.txt
-hash: sha256:9204ed626cadee35cc3128875ab12da505436f1a3ac06d77ab3418df0fcb43b5
+hash: sha256:3866882ec09b4ea38780b2a327b045e8e4665d4b70bcd2d2113f7b44fed2d06f
