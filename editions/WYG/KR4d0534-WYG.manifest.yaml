@@ -21,14 +21,14 @@ assets:
   - {seq: 1, filename: KR4d0534_001-WYG.yaml, hash: 'sha256:9cb3d3f089368912759d37a13153faae738b01e5a801885667ef63128e9357d4'}
   - {seq: 2, filename: KR4d0534_002-WYG.yaml, hash: 'sha256:9b87c520388df3705d8d019f99b8e62f140441842efa2da5c4cb4ad6a47bde0d'}
   - {seq: 3, filename: KR4d0534_003-WYG.yaml, hash: 'sha256:3e7d21249929e57a18e5d4f407f951837ff0d3b809bcf8a535b3f7dce83e917d'}
-  - {seq: 4, filename: KR4d0534_004-WYG.yaml, hash: 'sha256:fc3ce1f74ee0032dd48cb5a55e2ef4ff20015863961581c39adeacc3f98399b3'}
+  - {seq: 4, filename: KR4d0534_004-WYG.yaml, hash: 'sha256:859190e07e350c8db129ec540d3cffa82e98e4a6c0132504e451df7f75529774'}
   - {seq: 5, filename: KR4d0534_005-WYG.yaml, hash: 'sha256:fd9b0bc7150e8566839ed66298150dea8fc64b5fa57e89f34ecc24c00c582d70'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR4d0534_000-WYG.markers.yaml, hash: 'sha256:f3b23961b8622c05a52c6445e4d1b8f6844e11a92292a56c8504d63ff3cfa4e7'}
   - {seq: 1, role: markers, filename: assets/KR4d0534_001-WYG.markers.yaml, hash: 'sha256:18097f368ce19ef70e0fedc075f45cac45666a5e173defd66840d6993816f390'}
   - {seq: 2, role: markers, filename: assets/KR4d0534_002-WYG.markers.yaml, hash: 'sha256:68674a9e9800ceb05282a329c2c078b05c72fbce0a5d7e161be037472ca16d7f'}
   - {seq: 3, role: markers, filename: assets/KR4d0534_003-WYG.markers.yaml, hash: 'sha256:4f96b4178f837c2707cfd87ad500d4ce94a961623ba04dd24308d0c2addf69f0'}
-  - {seq: 4, role: markers, filename: assets/KR4d0534_004-WYG.markers.yaml, hash: 'sha256:d67b31c9da4fd51b2856efd61c318e9c80bc57d41c9e262551ad2058ab4dc415'}
+  - {seq: 4, role: markers, filename: assets/KR4d0534_004-WYG.markers.yaml, hash: 'sha256:fc3c295aff14c31ed415c589b2f044d7b4bda7acef5d56d22b779b268c335169'}
   - {seq: 5, role: markers, filename: assets/KR4d0534_005-WYG.markers.yaml, hash: 'sha256:b130440d2a41287dd27adc1289283d66fefb3839c4352508756aa787b75b7614'}
 table_of_contents:
 - ref:
@@ -106,8 +106,8 @@ table_of_contents:
     marker_id: KR4d0534_WYG_004-1a
     span:
     - body
-    - 0
-    - 47
+    - 117
+    - 164
   label: 題詩
   type: section
   level: 1
@@ -121,4 +121,4 @@ table_of_contents:
   label: 虞集詩
   type: section
   level: 1
-hash: sha256:24657a4a0a131b2dce2144862447879b7a05ff882dc07a1b1c21827390b383e3
+hash: sha256:0d7b31dd8a5f20cb45e7636cd98e4b0f510e11d69962e711d683985260cbf893
